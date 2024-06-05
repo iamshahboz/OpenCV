@@ -7,5 +7,6 @@ img = cv.imread('Pictures/tiger.jpg')
 # if you show the wrong path you will get "Assertion error"
 
 
+# this method show the video
 cv.imshow('Nature', img)
 cv.waitKey(0)
